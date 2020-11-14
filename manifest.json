@@ -7,7 +7,8 @@
 		"libs/modules/assetsmanager/assetsmanager.js",
 		"libs/modules/promise/promise.js",
 		"libs/WXCloudApi/WXCloudApi.js",
-		"libs/egretmgobe/egretmgobe.js"
+		"libs/egretmgobe/egretmgobe.js",
+		"libs/physics/physics.js"
 	],
 	"game": [
 		"bin-debug/ChangeSceneEvent.js",
