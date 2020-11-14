@@ -10,6 +10,12 @@
 		"libs/egretmgobe/egretmgobe.js"
 	],
 	"game": [
-		"main.js"
+		"bin-debug/ChangeSceneEvent.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/Platform.js",
+		"bin-debug/SceneManager.js",
+		"bin-debug/scene/GameScene.js",
+		"bin-debug/scene/StartScene.js"
 	]
 }
