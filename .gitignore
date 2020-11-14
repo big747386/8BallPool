@@ -1,0 +1,5 @@
+client/.idea/*
+client/.wing/*
+client/bin-debug/*
+client/bin-release/*
+client/bin-debug/*
